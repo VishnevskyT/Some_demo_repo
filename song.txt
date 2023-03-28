@@ -15,3 +15,5 @@ one more line in branch
 
 third line in branch
 fourth line in branch
+
+new line in master
