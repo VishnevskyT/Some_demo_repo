@@ -12,3 +12,6 @@ eighth line
 
 new branch line
 one more line in branch
+
+third line in branch
+fourth line in branch
