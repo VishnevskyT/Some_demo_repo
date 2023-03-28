@@ -10,15 +10,4 @@ sixth line
 seventh line
 eighth line
 
-new branch line
-one more line in branch
-
-third line in branch
-fourth line in branch
-
-
-new line in master
-new line in branch
-
-
-tagging line
+content to be saved
